@@ -1,5 +1,7 @@
 # Messenger-Clone Web Application
 
+**Note:- This Respository is a example repository, the actual code base is private because of private keys and secert.**
+
 
 ## About Application
 
